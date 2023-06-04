@@ -8,7 +8,6 @@ public class SpringbootNewkafkaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootNewkafkaApplication.class, args);
-		System.out.println("new mongoDb");
 	}
 
 }
